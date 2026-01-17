@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Obzori 👋</h1>
-<h3 align="center">Passionate about coding, bots & creative tech 💻🤖</h3>
-<h3 align="center">I love doing anything! ❤️</h3>
-
+<h1 align="center">Привет! Я — Обзори</h1>
+<h4 align="center">Фуллстак‑разработчик с 5‑летним опытом</h4>
+<p align="center">Web • Backend • Frontend • Mobile</p>
+<p align="center" > <a href="https://obzoriks.github.io"> Ссылка на веб портфолио </a> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=obzoriks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,56 +9,99 @@
 
 ---
 
-### 🚧 What I'm Building Now
-- **MouseZor Discord Bot Framework** — a powerful, flexible toolkit for crafting custom Discord bots with ease.
+## О себе
 
-### 💡 Current Projects
-- **R9Logger** — sleek and intuitive dashboard for bot management.
-- **Bite Tale** — a collaborative Undertale-style game with a Murder Drones theme, looking for contributors.
-
+Я занимаюсь разработкой полноценных веб‑приложений — от архитектуры и backend‑логики до интерфейсов и интеграций. Предпочитаю практичные решения, понятный код и проекты, которые реально используются.
 
 ---
 
-### 🔭 Skills & Tools I Use
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
+## Что я делаю прямо сейчас
+
+**ChallengerCRM** — функциональная и удобная CRM‑система для спортивного клуба <a href="https://www.instagram.com/challenger.boxinggym/">Challenger</a>.
+
+Фокус:
+
+* автоматизация внутренних процессов клуба;
+* удобство для тренеров и администраторов;
+* масштабируемая архитектура.
+
+---
+
+## Другие проекты
+
+**A.S.K** — атмосферная хоррор‑игра про школу, находящуюся под контролем криминала. Основной упор сделан на психологическое давление и напряжение, а не на скримеры.
+
+**VAIChat** — текстовый ИИ для ERP/RP‑взаимодействий с упором на диалоги и сценарии.
+
+---
+
+## Инструменты и технологии
+
+### Backend
+
+* Django
+* Flask
+* Node.js
+* Express.js
+
+### Frontend
+
+* React
+* React Native
+* Vue.js
+* Nuxt.js
+
+### Mobile
+
+* Swift (iOS)
+
+### Базы данных
+
+* SQL
+* PostgreSQL
+
+### Прочее
+
+* REST API
+* Архитектура клиент–сервер
+* Интеграции сторонних сервисов
+* Проектирование и оптимизация БД
+* Git / GitHub
+* Linux
+
+---
+
+## Технологический стек
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obzoriks&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=obzoriks&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+## Музыка, которую я слушаю
+
+Часто работаю под саундтреки и англоязычную музыку, особенно:
+
+* Murder Drones OST
+* Hazbin Hotel OST
+* Helluva Boss OST
+* ULTRAKILL OST
+
+В целом, предпочитаю английские треки — от саундтреков до альтернативы и электроники.
 
 ---
 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="https://discord.gg/fxkS7CXdrR" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
-  </a>
-</p>
+## Контакты
 
----
+Telegram: [https://t.me/obzorikss](https://t.me/obzorikss)
 
-### ⚡ Fun Fact
-I've been diving deep into IT since I was 8 years old. The journey never stops! 😎
-
+Открыт к общению, идеям и сотрудничеству.
