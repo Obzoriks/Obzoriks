@@ -17,6 +17,12 @@ I develop full-featured web applications — from architecture design and backen
 
 ## What I'm Working on Right Now
 
+**MZDBF (MouseZor Discord Bot Framework)** — a framework for building scalable and structured Discord bots, developed in collaboration with <a href="https://github.com/mousecot">mousecot</a>.
+
+---
+
+## Other Projects
+
 **ChallengerCRM** — a functional and user-friendly CRM system for the sports club <a href="https://www.instagram.com/challenger.boxinggym/">Challenger</a>.
 
 Focus:
@@ -24,10 +30,6 @@ Focus:
 * automation of internal club processes;
 * convenience for coaches and administrators;
 * scalable architecture.
-
----
-
-## Other Projects
 
 **A.S.K** — an atmospheric horror game about a school controlled by criminal forces. The main emphasis is on psychological pressure and tension rather than jump scares.
 
