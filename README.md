@@ -1,7 +1,7 @@
-<h1 align="center">Привет! Я — Обзори</h1>
-<h4 align="center">Фуллстак‑разработчик с 5‑летним опытом</h4>
+<h1 align="center">Hi! I'm Obzori</h1>
+<h4 align="center">Full-Stack Developer with 5 Years of Experience</h4>
 <p align="center">Web • Backend • Frontend • Mobile</p>
-<p align="center" > <a href="https://obzoriks.github.io"> Ссылка на веб портфолио </a> </p>
+<p align="center"><a href="https://obzoriks.github.io">Link to Web Portfolio</a></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=obzoriks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,69 +9,69 @@
 
 ---
 
-## О себе
+## About Me
 
-Я занимаюсь разработкой полноценных веб‑приложений — от архитектуры и backend‑логики до интерфейсов и интеграций. Предпочитаю практичные решения, понятный код и проекты, которые реально используются.
-
----
-
-## Что я делаю прямо сейчас
-
-**ChallengerCRM** — функциональная и удобная CRM‑система для спортивного клуба <a href="https://www.instagram.com/challenger.boxinggym/">Challenger</a>.
-
-Фокус:
-
-* автоматизация внутренних процессов клуба;
-* удобство для тренеров и администраторов;
-* масштабируемая архитектура.
+I develop full-featured web applications — from architecture design and backend logic to user interfaces and integrations. I prefer practical solutions, clean and readable code, and projects that are actually used in real life.
 
 ---
 
-## Другие проекты
+## What I'm Working on Right Now
 
-**A.S.K** — атмосферная хоррор‑игра про школу, находящуюся под контролем криминала. Основной упор сделан на психологическое давление и напряжение, а не на скримеры.
+**ChallengerCRM** — a functional and user-friendly CRM system for the sports club <a href="https://www.instagram.com/challenger.boxinggym/">Challenger</a>.
 
-**VAIChat** — текстовый ИИ для ERP/RP‑взаимодействий с упором на диалоги и сценарии.
+Focus:
+
+* automation of internal club processes;
+* convenience for coaches and administrators;
+* scalable architecture.
 
 ---
 
-## Инструменты и технологии
+## Other Projects
+
+**A.S.K** — an atmospheric horror game about a school controlled by criminal forces. The main emphasis is on psychological pressure and tension rather than jump scares.
+
+**VAIChat** — a text-based AI for ERP/RP interactions with a strong focus on dialogues and scenario-driven communication.
+
+---
+
+## Tools and Technologies
 
 ### Backend
 
-* Django
-* Flask
-* Node.js
-* Express.js
+* Django  
+* Flask  
+* Node.js  
+* Express.js  
 
 ### Frontend
 
-* React
-* React Native
-* Vue.js
-* Nuxt.js
+* React  
+* React Native  
+* Vue.js  
+* Nuxt.js  
 
 ### Mobile
 
-* Swift (iOS)
+* Swift (iOS)  
 
-### Базы данных
+### Databases
 
-* SQL
-* PostgreSQL
+* SQL  
+* PostgreSQL  
 
-### Прочее
+### Other
 
-* REST API
-* Архитектура клиент–сервер
-* Интеграции сторонних сервисов
-* Проектирование и оптимизация БД
-* Git / GitHub
-* Linux
+* REST API  
+* Client–server architecture  
+* Third-party service integrations  
+* Database design and optimization  
+* Git / GitHub  
+* Linux  
 
 ---
 
-## Технологический стек
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
@@ -87,21 +87,21 @@
 
 ---
 
-## Музыка, которую я слушаю
+## Music I Listen To
 
-Часто работаю под саундтреки и англоязычную музыку, особенно:
+I often work while listening to soundtracks and English-language music, especially:
 
-* Murder Drones OST
-* Hazbin Hotel OST
-* Helluva Boss OST
-* ULTRAKILL OST
+* Murder Drones OST  
+* Hazbin Hotel OST  
+* Helluva Boss OST  
+* ULTRAKILL OST  
 
-В целом, предпочитаю английские треки — от саундтреков до альтернативы и электроники.
+In general, I prefer English tracks — from soundtracks to alternative and electronic music.
 
 ---
 
-## Контакты
+## Contacts
 
-Telegram: [https://t.me/obzorikss](https://t.me/obzorikss)
+Telegram: https://t.me/obzorikss  
 
-Открыт к общению, идеям и сотрудничеству.
+Open to communication, ideas, and collaboration.
