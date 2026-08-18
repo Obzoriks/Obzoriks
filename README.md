@@ -26,8 +26,6 @@ I enjoy designing practical systems, clean APIs, and tools that solve real probl
 
 **MZDBF** — a framework for building structured Discord bots.
 
-**ChallengerCRM** — a CRM system for a sports club.
-
 **A.S.K** — a cooperative extraction horror game focused on stealth, tension, and paranoia.
 
 ## Tech
